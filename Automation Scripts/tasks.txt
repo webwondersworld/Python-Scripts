@@ -1,0 +1,4 @@
+Test Command Line;2024-02-15 14:17:00;True;False
+Test 1;2024-02-15 14:19:00;False;True
+Test 2;2024-02-15 14:21:00;True;True
+Test 3;2024-02-15 14:24:00;True;False
